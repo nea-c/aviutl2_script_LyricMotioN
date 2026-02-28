@@ -4,7 +4,10 @@
 
 複数個を重ねることで複雑なアニメーションも可能
 
+
+
 ![sample](sample.webp)
+※サンプル映像には[ObjectMotionBlur_LK](https://github.com/korarei/AviUtl2_ObjectMotionBlur_LK_Script)を使用しています
 
 ## 最新 / Latest
 
